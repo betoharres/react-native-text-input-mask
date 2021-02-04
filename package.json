@@ -16,7 +16,8 @@
     "ios"
   ],
   "devDependencies": {
-    "@react-native-community/eslint-config": "0.0.2"
+    "@react-native-community/eslint-config": "0.0.2",
+    "prop-types": "^15.7.2"
   },
   "author": "Ivan Zotov",
   "bugs": {
